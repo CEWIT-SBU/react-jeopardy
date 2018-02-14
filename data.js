@@ -39,36 +39,66 @@ const data = [
       }
     ]
   },
-  {
-    "category": "Jesus' Birth",
-    "questions": [
-      {
-        "points": 100,
-        "question": "These two Gospels do <strong>NOT</strong> account the birth of Jesus.",
-        "answer": "Mark and John"
-      },
-      {
-        "points": 200,
-        "question": "How did the shepherds learn of Christ's birth?<br><ul><li>A new star in the sky</li><li>The magi told them</li><li>An angel appeared to them</li><li>Shepherds don’t exist</li></ul>",
-        "answer": "An angel appeared to them<br/>(Ref: Luke 2:8-9)"
-      },
-      {
-        "points": 300,
-        "question": "Where was Jesus when the magi came to visit Him?",
-        "answer": "In a house<br/>(Ref: Matthew 2:11)"
-      },
-      {
-        "points": 400,
-        "question": "In a dream, an angel tells Joseph to name his child Jesus, for it was prophesied that a virgin would give birth and call her son Immanuel. What does Immanuel mean?",
-        "answer": "God With Us"
-      },
-      {
-        "points": 500,
-        "question": "The magi ask Herod where Christ is to be born. Herod summons his priests and scribes, who know the location of the birth because of the prophecy of this man.",
-        "answer": "Micah<br/>(Ref: Micah 5:2 & Matthew 2:6)"
-      }
-    ]
-  },
+    {
+        "category": "Jesus' Birth",
+        "questions": [
+            {
+                "points": 100,
+                "question": "These two Gospels do <strong>NOT</strong> account the birth of Jesus.",
+                "answer": "Mark and John"
+            },
+            {
+                "points": 200,
+                "question": "How did the shepherds learn of Christ's birth?<br><ul><li>A new star in the sky</li><li>The magi told them</li><li>An angel appeared to them</li><li>Shepherds don’t exist</li></ul>",
+                "answer": "An angel appeared to them<br/>(Ref: Luke 2:8-9)"
+            },
+            {
+                "points": 300,
+                "question": "Where was Jesus when the magi came to visit Him?",
+                "answer": "In a house<br/>(Ref: Matthew 2:11)"
+            },
+            {
+                "points": 400,
+                "question": "In a dream, an angel tells Joseph to name his child Jesus, for it was prophesied that a virgin would give birth and call her son Immanuel. What does Immanuel mean?",
+                "answer": "God With Us"
+            },
+            {
+                "points": 500,
+                "question": "The magi ask Herod where Christ is to be born. Herod summons his priests and scribes, who know the location of the birth because of the prophecy of this man.",
+                "answer": "Micah<br/>(Ref: Micah 5:2 & Matthew 2:6)"
+            }
+        ]
+    },
+    {
+        "category": "Jesus' Birth",
+        "questions": [
+            {
+                "points": 100,
+                "question": "These two Gospels do <strong>NOT</strong> account the birth of Jesus.",
+                "answer": "Mark and John"
+            },
+            {
+                "points": 200,
+                "question": "How did the shepherds learn of Christ's birth?<br><ul><li>A new star in the sky</li><li>The magi told them</li><li>An angel appeared to them</li><li>Shepherds don’t exist</li></ul>",
+                "answer": "An angel appeared to them<br/>(Ref: Luke 2:8-9)"
+            },
+            {
+                "points": 300,
+                "question": "Where was Jesus when the magi came to visit Him?",
+                "answer": "In a house<br/>(Ref: Matthew 2:11)"
+            },
+            {
+                "points": 400,
+                "question": "In a dream, an angel tells Joseph to name his child Jesus, for it was prophesied that a virgin would give birth and call her son Immanuel. What does Immanuel mean?",
+                "answer": "God With Us"
+            },
+            {
+                "points": 500,
+                "question": "The magi ask Herod where Christ is to be born. Herod summons his priests and scribes, who know the location of the birth because of the prophecy of this man.",
+                "answer": "Micah<br/>(Ref: Micah 5:2 & Matthew 2:6)"
+            }
+        ]
+    },
   {
     "category": "Christmas Carols",
     "questions": [
