@@ -242,10 +242,10 @@ code {
 
 @font-face {
   font-family: "Korinna Bold";
-  src: url(http://library.cewit.stonybrook.edu/Korinna-Bold.otf);
+  src: url(/fonts/Korinna-Bold.otf);
 }
 
 @font-face {
   font-family: "Swiss 911 Bold Compressed";
-  src: url(http://library.cewit.stonybrook.edu/Swiss911BT-Compressed.otf);
+  src: url(/fonts/Swiss911BT-Compressed.otf);
 }
