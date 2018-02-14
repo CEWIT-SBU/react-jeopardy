@@ -108,18 +108,20 @@ p {
 }
 
 .card>.front {
+  font-family: "Swiss 911 Bold Compressed Bold", Arial, sans-serif;
   -webkit-transform: rotateY(0deg) !important;
   transform: rotateY(0deg) !important;
-  background-color: #61DAFB;
+  background-color: #060CE9;
   color: #FFFFFF;
   font-size: 54px;
   z-index: 2;
 }
 
 .card>.back {
+  font-family: "Korinna Bold", Arial, sans-serif;
   -webkit-transform: rotateY(180deg) !important;
   transform: rotateY(180deg) !important;
-  background-color: #009CDF;
+  background-color: #060CE9;
   color: #FFFFFF;
   font-size: 36px;
   font-weight: 300;
@@ -236,4 +238,14 @@ code {
   code {
     font-size: 14px;
   }
+}
+
+@font-face {
+  font-family: "Korinna Bold";
+  src: url(http://library.cewit.stonybrook.edu/Korinna-Bold.otf);
+}
+
+@font-face {
+  font-family: "Swiss 911 Bold Compressed";
+  src: url(http://library.cewit.stonybrook.edu/Swiss911BT-Compressed.otf);
 }
