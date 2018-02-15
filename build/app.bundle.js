@@ -22128,7 +22128,7 @@
 	        transform: 'translate3d(' + this.props.left + 'px,' + this.props.top + 'px,0)',
 	        WebkitTransform: 'translate3d(' + this.props.left + 'px,' + this.props.top + 'px,0)'
 	      },
-	          front = this.state.completed ? _react2.default.createElement('img', { src: 'assets/img/react.svg' }) : _react2.default.createElement('span', { className: 'points' }, this.props.question.points),
+	          front = this.state.completed ? _react2.default.createElement('img', { src: 'assets/img/hack-at-cewit-18-white.png' }) : _react2.default.createElement('span', { className: 'points' }, this.props.question.points),
 	          className = 'flipper';
 	
 	      if (this.state.view !== 'points') {
@@ -22142,7 +22142,7 @@
 	        className: className + ' ' + this.props.className,
 	        onClick: this.clickHandler.bind(this),
 	        onTransitionEnd: this.transitionEndHandler.bind(this)
-	      }, _react2.default.createElement('div', { className: 'card' }, _react2.default.createElement('div', { className: 'front' }, front), _react2.default.createElement('div', { className: 'back' }, _react2.default.createElement('span', { dangerouslySetInnerHTML: this.getLabelBack() }), _react2.default.createElement('img', { src: 'assets/img/react.svg' }))));
+	      }, _react2.default.createElement('div', { className: 'card' }, _react2.default.createElement('div', { className: 'front' }, front), _react2.default.createElement('div', { className: 'back' }, _react2.default.createElement('span', { dangerouslySetInnerHTML: this.getLabelBack() }), _react2.default.createElement('img', { src: 'assets/img/hack-at-cewit-18-white.png' }))));
 	    }
 	  }]);
 	
