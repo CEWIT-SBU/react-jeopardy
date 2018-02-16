@@ -14,19 +14,45 @@ p {
   font-family: "Swiss 911 Bold Compressed Bold", Arial, sans-serif;
   position: absolute;
   color: #FFFFFF;
-  font-size: 26px;
+  font-size: 32px;
   /*padding-top: 16px;*/
   display: -webkit-flex;
   display: flex;
   -webkit-align-items: center;
   align-items: center;
   height: 150px;
+  transition: all 1s ease-in-out;
+  width: 100%;
 }
 
 .headers>.header {
   display: inline-block;
   text-align: center;
   padding: 15px;
+  -webkit-transform: rotateY(0deg) !important;
+  transform: rotateY(0deg) !important;
+  background-color: #060CE9;
+  z-index: 2;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  top: 4px;
+  left: 4px;
+  bottom: 4px;
+  right: 4px;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border: solid 4px #FFFFFF;
+  border-radius: 4px;
+  margin: 4px;
 }
 
 .cardContainer {
