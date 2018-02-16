@@ -11,9 +11,9 @@ p {
 }
 
 .headers {
+  font-family: "Swiss 911 Bold Compressed Bold", Arial, sans-serif;
   position: absolute;
   color: #FFFFFF;
-  text-transform: uppercase;
   font-size: 26px;
   /*padding-top: 16px;*/
   display: -webkit-flex;

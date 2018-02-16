@@ -21,7 +21,7 @@ If you want modify the app and create you own build:
 *Note: Jeopardy the gameshow used* ***ITC Korinna Bold*** *and* ***Swiss 911*** *for the categories and prize numbers.*   
 These fonts can be purchased. Alternatively, there are very close substitutes to be found online.
 
-1. Modify the `data.js` file with your own questions and answers.  Remember that everything is in CAPITAL LETTERS.
+1. Modify the `*jeopardy-round.js` files with your own questions and answers.  Remember that everything is in CAPITAL LETTERS.
 
 1. Build the app
     ```
