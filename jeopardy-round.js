@@ -4,69 +4,9 @@ const data = [
         "questions": [
             {
                 "points": 9000,
-                "question": "Name the three gifts given by the Wise Men and the Bible reference.",
+                "question": "Name the three gifts given by the Wise Men and the Bible reference",
                 "answer": "Gold, Frankincense, and Myrrh<br/>(Ref: Matthew 2:11)"
             },
-        ]
-    },
-    {
-        "category": "HEY, THAT'S MY PI",
-        "questions": [
-            {
-                "points": 200,
-                "question": "THIS POPULAR CREDIT CARD SIZED DEVICE THAT CAN DO MANY OF THE THINGS THAT A DESKTOP PC DOES IS TYPICALLY USED IN ELECTRONICS PROJECTS",
-                "answer": "WHAT IS A RASPBERRY PI?"
-            },
-            {
-                "points": 400,
-                "question": "THE NUMBER OF PINS AN EXTENDED GPIO HAS, SUCH AS ON THE PI3.",
-                "answer": "WHAT IS 40?"
-            },
-            {
-                "points": 600,
-                "question": "APPEND THIS TO A COMMAND TO EXECUTE IT WITH ROOT PRIVILEGE",
-                "answer": "WHAT IS SUDO?"
-            },
-            {
-                "points": 800,
-                "question": "THIS IS WHAT 'NOOBS' STARNDS FOR",
-                "answer": "WHAT IS NEW OUT OF BOX SOFTWARE?"
-            },
-            {
-                "points": 1000,
-                "question": "THE DEFAULT USERNAME FOLLOWED BY THE DEFAULT PASSWORD",
-                "answer": "WHAT IS PI RASPBERRY?"
-            }
-        ]
-    },
-    {
-        "category": "ERGO, A.I.",
-        "questions": [
-            {
-                "points": 200,
-                "question": "THIS IBM SYSTEM COMPETED ON JEOPARDY! AGAINST HUMAN EXPERTS BRAD RUTTER AND KEN JENNINGS WINNING THE FIRST PLACE PRIZE OF $1 MILLION.",
-                "answer": "WHAT IS WATSON?"
-            },
-            {
-                "points": 400,
-                "question": "THIS FREE ONLINE ENCYCLOPEDIA HAS THE MISSION OF ALLOWING ANYONE TO CREATE OR EDIT ARTICLES",
-                "answer": "WHAT IS WIKIPEDIA?"
-            },
-            {
-                "points": 600,
-                "question": "THIS PROJECT EXTRACTED STRUCTURED CONTENT FROM THE INFORMATION CREATED IN THE WIKIPEDIA PROJECT",
-                "answer": "WHAT IS DBPEDIA?"
-            },
-            {
-                "points": 800,
-                "question": "THIS ENGLISH ENGINEER AND COMPUTER SCIENTIST IS BEST KNOWN AS THE INVENTOR OF THE WORLD WIDE WEB",
-                "answer": "WHO IS TIM BERNERS-LEE?"
-            },
-            {
-                "points": 1000,
-                "question": "THIS PRINCETON DEVELOPED LEXICAL DATABASE GROUPS WORDS INTO SETS OF SYNONYMS CALLED SYNSETS, PROVIDES DEFINITIONS, AND OTHER RELATIONS AMONG SYNONYM SETS (SUCH AS HYPERNYMS, HOLONYMS, MERONYMS, GLOSS, ETC.)",
-                "answer": "WHAT IS WORDNET?"
-            }
         ]
     },
     {
@@ -100,7 +40,7 @@ const data = [
         ]
     },
     {
-        "category": "ARDUIKNOW!",
+        "category": "ARDUI-KNOW",
         "questions": [
             {
                 "points": 200,
@@ -130,7 +70,7 @@ const data = [
         ]
     },
     {
-        "category": "IT'S O'K'",
+        "category": "EVERYTHING IS GOING TO BE O'K'",
         "questions": [
             {
                 "points": 200,
@@ -158,5 +98,66 @@ const data = [
                 "answer": "WHO IS MASSIMO BANZI?"
             }
         ]
-    }
+    },
+    {
+        "category": "MY HEAD'S IN THE CLOUDS",
+        "questions": [
+            {
+                "points": 200,
+                "question": "THIS IS THE ACRONYM FOR LOW ENERGY BLUETOOTH TECHNOLOGY",
+                "answer": "WHAT IS BLE?"
+            },
+            {
+                "points": 400,
+                "question": "OVER 70% OF ALL INTERNET TRAFFIC TOUCHES THEIR HARDWARE",
+                "answer": "WHO/WHAT IS CISCO?"
+            },
+            {
+                "points": 600,
+                "question": "HE IS THE CURRENT CEO OF CISCO",
+                "answer": "WHO IS CHUCK ROBBINS?"
+            },
+            {
+                "points": 800,
+                "question": "THIS CITY IS WHERE CISCO’S NAME HAILS FROM",
+                "answer": "WHAT IS SAN FRANCISCO?"
+            },
+            {
+                "points": 1000,
+                "question": "THIS IS THE NAME OF THE RESEARCH PROJECT THAT GREW INTO MERAKI",
+                "answer": "WHAT IS ROOFNET?"
+            }
+        ]
+    },
+    {
+        "category": "GIVE IT A REST",
+        "questions": [
+            {
+                "points": 200,
+                "question": "AN ARCHITECTURAL FRAMEWORK FOR DESIGNING NETWORKED APPLICATIONS - BE SPECIFIC",
+                "answer": "WHAT IS REPRESENTATIONAL STATE TRANSFER?",
+                "specificity": "REST: MUST BE SPECIFIC!"
+            },
+            {
+                "points": 400,
+                "question": "A HTTP VERB USED TO CREATE A NEW RESOURCE ON A SERVER",
+                "answer": "WHAT IS A POST?"
+            },
+            {
+                "points": 600,
+                "question": "A COMMON LIGHTWEIGHT DATA FORMAT TYPICALLY USED FOR REQUESTS AND RESPONSES IN REST APIS",
+                "answer": "WHAT IS JSON?"
+            },
+            {
+                "points": 800,
+                "question": "THIS HTTP STATUS CODE INDICATES THAT THE CLIENT IS NOT ALLOWED TO ACCESS AN API",
+                "answer": "WHAT IS 401?"
+            },
+            {
+                "points": 1000,
+                "question": "A STRING OF CHARACTERS USED TO IDENTIFY AND DESCRIBE INTERACTIONS WITH REPRESENTATIONS OF A RESOURCE - BE SPECIFIC",
+                "answer": "WHAT IS A UNIFORM RESOURCE IDENTIFIER?"
+            }
+        ]
+    },
 ];
