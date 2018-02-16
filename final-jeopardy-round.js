@@ -13,9 +13,9 @@ const data = [
         "category": "FINAL JEOPARDY",
         "questions": [
             {
-                "points": "MAJOR LEAGUE HACKING",
-                "question": "THIS IS THE YEAR MLH WAS FOUNDED",
-                "answer": "2013"
+                "points": "MLH HISTORY",
+                "question": "THIS WAS THE SECOND MLH SEASON",
+                "answer": "WHAT WAS THE 2013 POST-SEASON? / WHAT WAS 2013?"
             },
         ]
     },
