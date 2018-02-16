@@ -70,6 +70,36 @@ const data = [
         ]
     },
     {
+        "category": "JAVASCRIPT ON THE SERVER?!",
+        "questions": [
+            {
+                "points": 200,
+                "question": "THIS COMMON OPEN SOURCE SERVER FRAMEWORK BASED ON JAVASCRIPT RUNS ON VARIOUS PLATFORMS INCLUDING WINDOWS, LINUX, UNIX & MAC OS X",
+                "answer": "WHAT IS NODEJS?"
+            },
+            {
+                "points": 400,
+                "question": "WITH OVER 465,000 MODULES THIS HAS BECOME THE LARGEST ECOSYSTEM OF OPEN SOURCE LIBRARIES IN THE WORLD - BE SPECIFIC",
+                "answer": "WHAT IS NODE PACKADE MANAGER?"
+            },
+            {
+                "points": 600,
+                "question": "THIS LIGHT FRAMEWORK WHICH HAS BECOME THE DEFACTO STANDARD WEB SERVER FOR NODEJS APPS, HELPS MANAGE ROUTES, HANDLING REQUESTS, AND VIEWS",
+                "answer": "WHAT IS EXPRESS?"
+            },
+            {
+                "points": 800,
+                "question": "AN OPEN SOURCE JAVASCRIPT ENGINE THAT WAS DEVELOPED BY THE CHROMIUM PROJECT AND DESIGNED TO BE USED BOTH IN BROWSER AND IN STANDALONE IMPLEMENTATIONS",
+                "answer": "WHAT IS CHROME V8?"
+            },
+            {
+                "points": 1000,
+                "question": "A C++ API THAT PROVIDES AN ABSTRACTION LAYER FOR NETWORK AND FILE SYSTEM FUNCTIONALITY ON BOTH WINDOWS AND POSIX-BASED SYSTEMS",
+                "answer": "WHAT IS LIBUV?"
+            }
+        ]
+    },
+    {
         "category": "ERGO, AI",
         "questions": [
             {
