@@ -144,6 +144,11 @@ p {
   z-index: 2;
 }
 
+.card>.front.done {
+  border: none;
+}
+
+
 .card>.back {
   font-family: "Korinna Bold", Arial, sans-serif;
   -webkit-transform: rotateY(180deg) !important;

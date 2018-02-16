@@ -44,9 +44,10 @@ class Card extends React.Component {
         WebkitTransform: 'translate3d(' + this.props.left + 'px,' + this.props.top + 'px,0)'
       },
       front = this.state.completed
-        ? <img src='assets/img/react.svg'/>
+        ? <img src='assets/img/hack-at-cewit-18-white.png'/>
         : <span className='points'>{this.props.question.points}</span>,
-      className = 'flipper';
+      className = 'flipper',
+      frontClass = this.state.completed ? "done":"";
 
     if (this.state.view !== 'points') {
       className = className + ' flipped';
@@ -62,12 +63,12 @@ class Card extends React.Component {
         onTransitionEnd={this.transitionEndHandler.bind(this)}
       >
         <div className='card'>
-          <div className='front'>
+          <div className={'front ' + frontClass}>
             {front}
           </div>
           <div className='back'>
             <span dangerouslySetInnerHTML={this.getLabelBack()}/>
-            <img src='assets/img/react.svg'/>
+            <img src='assets/img/hack-at-cewit-18-white.png'/>
           </div>
         </div>
       </div>
