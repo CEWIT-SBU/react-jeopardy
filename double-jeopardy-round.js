@@ -10,6 +10,36 @@ const data = [
         ]
     },
     {
+        "category": "GIT GUD",
+        "questions": [
+            {
+                "points": 400,
+                "question": "THE PERSON WHO CREATED GIT",
+                "answer": "WHO IS LINUS TORVALDS?"
+            },
+            {
+                "points": 800,
+                "question": "THE PURPOSE OF GIT",
+                "answer": "WHAT IS VERSION CONTROL?"
+            },
+            {
+                "points": 1200,
+                "question": "THE TWO COMMON SERVICES FOR GIT",
+                "answer": "WHAT IS BITBUCKET AND GITHUB?"
+            },
+            {
+                "points": 1600,
+                "question": "THE PLACE WHERE YOUR GIT CODE/FILES ARE STORED",
+                "answer": "WHAT IS A REPOSITORY?"
+            },
+            {
+                "points": 2000,
+                "question": "THE 3 STEPS IN ORDER TO UPDATE YOUR CODE ONTO A REMOTE REPO",
+                "answer": "WHAT ARE ADD, COMMIT, & PUSH?"
+            }
+        ]
+    },
+    {
         "category": "HEY, THAT'S MY PI",
         "questions": [
             {
