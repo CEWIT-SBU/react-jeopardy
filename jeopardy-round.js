@@ -130,6 +130,36 @@ const data = [
         ]
     },
     {
+        "category": "ALL BY DESIGN",
+        "questions": [
+            {
+                "points": 200,
+                "question": "THIS WARNER BROS. MOVIE'S WEBSITE HAS AN INFAMOUSLY BAD UI",
+                "answer": "WHAT IS SPACE JAM?"
+            },
+            {
+                "points": 400,
+                "question": "THIS IS A SKELETON STRUCTURE OF A USER INTERFACE USED TO DESCRIBE FUNCTIONALITY AND RELATIONS BETWEEN VIEWS",
+                "answer": "WHAT IS A WIREFRAME?"
+            },
+            {
+                "points": 600,
+                "question": "THIS DATING APP POPULARIZED THE SWIPE LEFT / SWIPE RIGHT USER INTERFACE",
+                "answer": "WHAT IS TINDER?"
+            },
+            {
+                "points": 800,
+                "question": "THIS DESIGN'S FOCUS IS TO MAKE WEB APPLICATIONS THAT WORK ON BOTH A DESKTOP AND A MOBILE DEVICE",
+                "answer": "WHAT IS RESPONSIVE WEB DESIGN (RWD)?"
+            },
+            {
+                "points": 1000,
+                "question": "THIS OPEN SOURCE PROGRAMMING LANGUAGE IS A SUPERSET OF JAVASCRIPT",
+                "answer": "WHAT IS TYPESCRIPT?"
+            }
+        ]
+    },
+    {
         "category": "GIVE IT A REST",
         "questions": [
             {
