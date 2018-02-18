@@ -15,7 +15,7 @@ const data = [
             {
                 "points": "MLH HISTORY",
                 "question": "THIS WAS THE SECOND MLH SEASON",
-                "answer": "WHAT WAS THE 2013 POST-SEASON? / WHAT WAS 2013?"
+                "answer": "WHAT WAS THE 2013 POST-SEASON?"
             },
         ]
     },
